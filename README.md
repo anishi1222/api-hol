@@ -1,7 +1,9 @@
-#API Platform
+#API Platform HOL
+-----
+This repository contains assets of api platform HOL.
 
-## [HOL](https://github.com/anishi1222/api-hol.git) 
-- Simple Hands-on
+## [gas1_overview.html](gas1_overview.html)
+- Overview page to embed to Developer Portal
 
-## [Groovy](https://github.com/anishi1222/groovy.git)
-- Samples for Groovy Script Policy
+## [gas1.apib](gas.apib)
+- Detail page in the form of API Blueprint
