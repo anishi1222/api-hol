@@ -9,8 +9,8 @@ This repository contains assets of api platform HOL.
 - Detail page in the form of API Blueprint
 
 # Postman
-## [APIPCS_HOL_Requests.json.postman_collection] (Postman/APIPCS_HOL_Requests.json.postman_collection)
+## [APIPCS_HOL_Requests.json.postman_collection](Postman/APIPCS_HOL_Requests.json.postman_collection)
 - Pre-configured collection for Postman
 
-## [Create Postman_Environment.json] (Postman/Create Postman_Environment.json)
+## [Create Postman_Environment.json](Postman/Create Postman_Environment.json)
 - Environment for Postman
